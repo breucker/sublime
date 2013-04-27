@@ -1,0 +1,963 @@
+{
+	"folder_history":
+	[
+		"/home/philippe/dev/cortext/cortext-box",
+		"/home/philippe/Dropbox/Photos/cam",
+		"/home/philippe/dev/cortext/cortext-graphs",
+		"/home/philippe/dev/cortext/cortext/manager",
+		"/home/philippe/dev/cortext/cortext-box/puppet",
+		"/home/philippe/dev/cortext/cortext-box/puppet/modules/cortext/manifests"
+	],
+	"last_window_id": 17,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pa",
+						"packages"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"oau",
+						"oauth_server"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"fo",
+						"Format: Php"
+					],
+					[
+						"php",
+						"Format: Php"
+					],
+					[
+						"va",
+						"Vagrant: Start"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"keys",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pupp",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Set Syntax: MultiMarkdown"
+					]
+				],
+				"width": 638.0
+			},
+			"console":
+			{
+				"height": 267.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/philippe/Dropbox/Photos/cam/97-20130422113130-00.jpg",
+				"/home/philippe/Bureau/wifi_inra-user_osx_lion.mobileconfig",
+				"/home/philippe/.cache/.fr-jbERj9/wifi_inra-user_osx_lion.mobileconfig",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/app/bootstrap.php",
+				"/home/philippe/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/src/app.php",
+				"/home/philippe/index.html",
+				"/home/philippe/Bureau/index.html",
+				"/home/philippe/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/philippe/dev/inra/inra-ifris.org/web/squelettes/auteur.html",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/views/index.html.twig",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/main.css",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/js/main.js",
+				"/home/philippe/.config/sublime-text-2/Packages/Theme - Default/Widgets.stTheme",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/files.css",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php",
+				"/home/philippe/dev/cortext/cortext-box/Vagrantfile",
+				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/files/php.ini",
+				"/home/philippe/dev/cortext/cortext-box/README.md",
+				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/manifests/composer.pp",
+				"/home/philippe/.config/sublime-text-2/Packages/Color Scheme - Default/Twilight.tmTheme",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/web/css/lockdin.css",
+				"/home/philippe/.config/sublime-text-2/Packages/User/Markdown.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/philippe/dev/cortext/cortext-graphs"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"(.*)\\n",
+					"\\n",
+					"notelist",
+					"running",
+					"expand selection",
+					"expand",
+					"http",
+					"http://",
+					"192.168.100.100",
+					"192",
+					"192.168.1.100",
+					".168.1.100",
+					"192",
+					"192.168.1.100",
+					"100",
+					"192.168.100.100",
+					"  config.vm.network :forwarded_port, guest:"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\"$1\",",
+					",",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.vagrant":
+			{
+				"height": 207.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"puppet/modules/php/manifests/init.pp"
+					],
+					[
+						"inde",
+						"src/cortext/cortext-assets/server/web/index.php"
+					],
+					[
+						"php/",
+						"puppet/modules/php/manifests/init.pp"
+					],
+					[
+						"boot",
+						"src/cortext/cortext-assets/server/app/bootstrap.php"
+					],
+					[
+						"ngin",
+						"puppet/modules/nginx/manifests/init.pp"
+					],
+					[
+						"va",
+						"vagrant.conf"
+					],
+					[
+						".php",
+						"src/cortext/cortext-auth/server/src/app.php"
+					],
+					[
+						"v",
+						"Vagrantfile"
+					],
+					[
+						"nginx/man",
+						"puppet/modules/nginx/manifests/init.pp"
+					],
+					[
+						"main.",
+						"src/cortext/cortext-assets/templates/css/main.css"
+					],
+					[
+						".js",
+						"src/cortext/cortext-assets/templates/js/main.js"
+					],
+					[
+						"index.h",
+						"src/cortext/cortext-assets/server/views/index.html.twig"
+					],
+					[
+						".css",
+						"src/cortext/cortext-assets/templates/css/files.css"
+					],
+					[
+						"oauth2php",
+						"src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php"
+					],
+					[
+						"compe",
+						"puppet/modules/php/manifests/composer.pp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 296.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mat",
+						"matplotlib"
+					],
+					[
+						"pa",
+						"packages"
+					],
+					[
+						"pac",
+						"packages"
+					],
+					[
+						"pip",
+						"pip_modules"
+					],
+					[
+						"es",
+						"easy_install"
+					],
+					[
+						"fun",
+						"fun	function …"
+					],
+					[
+						"oau",
+						"oauth_server"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/manifests/init.pp",
+					"settings":
+					{
+						"buffer_size": 2142,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/default.pp",
+					"settings":
+					{
+						"buffer_size": 320,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/sources.list",
+					"settings":
+					{
+						"buffer_size": 807,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\"libboost-mpi-python-dev\",\"libboost-mpi-python1.42-dev\",\"libboost-mpi-python1.42.0\",\"libboost-python-dev\",\"libboost-python1.42-dev\",\"libboost-python1.42.0\",\"libpython2.6\",\"python\",\"python-apptools\",\"python-apt\",\"python-apt-common\",\"python-cairo\",\"python-central\",\"python-chaco\",\"python-configobj\",\"python-dateutil\",\"python-dev\",\"python-enable\",\"python-enthoughtbase\",\"python-envisagecore\",\"python-envisageplugins\",\"python-gobject\",\"python-jaxml\",\"python-jsonpickle\",\"python-libsmbios\",\"python-lxml\",\"python-matplotlib\",\"python-matplotlib-data\",\"python-minimal\",\"python-networkx\",\"python-nose\",\"python-numpy\",\"python-pip\",\"python-pkg-resources\",\"python-pyparsing\",\"python-pyrex\",\"python-reportbug\",\"python-scipy\",\"python-setuptools\",\"python-simplejson\",\"python-sqlite\",\"python-support\",\"python-tk\",\"python-traits\",\"python-traitsbackendwx\",\"python-traitsgui\",\"python-tz\",\"python-vtk\",\"python-wxgtk2.8\",\"python-wxversion\",\"python-yaml\",\"python2.6-dev\",\"r-cran-nws\",\"reportbug\",\"scanerrlog\",\"mayavi2\"",
+					"file": "/home/philippe/dev/cortext/cortext-box/lib-python.txt",
+					"file_size": 1028,
+					"file_write_time": 1366990715000000,
+					"settings":
+					{
+						"buffer_size": 996,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#!/bin/sh\n#install matplotlib\ncd /home/vagrant\ngit clone git://github.com/matplotlib/matplotlib.git\ncd matplotlib\npython setup.py install",
+					"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/files/python_install_matplotlib.sh",
+					"file_size": 137,
+					"file_write_time": 1366996346000000,
+					"settings":
+					{
+						"buffer_size": 137,
+						"line_ending": "Unix",
+						"name": "#!/bin/sh"
+					}
+				},
+				{
+					"file": "/home/philippe/dev/cortext/cortext-box/vagrant-package.sh",
+					"settings":
+					{
+						"buffer_size": 188,
+						"line_ending": "Unix",
+						"name": "#!/bin/sh"
+					}
+				},
+				{
+					"contents": "\"AppTools\",\"BeautifulSoup\",\"Chaco\",\"Enable\",\"EnthoughtBase\",\"EnvisageCore\",\"EnvisagePlugins\",\"Mayavi\",\"PyYAML\",\"Pygments\",\"Pyrex\",\"Pyste\",\"Tenjin\",\"Traits\",\"TraitsBackendWX\",\"TraitsGUI\",\"VTK\",\"Whoosh\",\"argparse\",\"chardet\",\"configobj\",\"distribute\",\"httpie\",\"iconv\",\"jaxml\",\"jsonpickle\",\"lxml\",\"matplotlib\",\"networkx\",\"nltk\",\"nose\",\"numpy\",\"pyparsing\",\"pysqlite\",\"python-apt\",\"python-dateutil\",\"pytz\",\"reportbug\",\"requests\",\"scipy\",\"simplejson\",\"wsgiref\",\"wxPython\",\"wxPython-common\"",
+					"file": "/home/philippe/dev/cortext/cortext-box/python-modules.txt",
+					"file_size": 723,
+					"file_write_time": 1366985705000000,
+					"settings":
+					{
+						"buffer_size": 481,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 159.0,
+				"selected_items":
+				[
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"fo",
+						"Format: Php"
+					],
+					[
+						"php",
+						"Format: Php"
+					],
+					[
+						"va",
+						"Vagrant: Start"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"keys",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pupp",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Set Syntax: MultiMarkdown"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 267.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/philippe/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/philippe/Dropbox/Photos/cam/97-20130422113130-00.jpg",
+				"/home/philippe/Bureau/wifi_inra-user_osx_lion.mobileconfig",
+				"/home/philippe/.cache/.fr-jbERj9/wifi_inra-user_osx_lion.mobileconfig",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/app/bootstrap.php",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/src/app.php",
+				"/home/philippe/index.html",
+				"/home/philippe/Bureau/index.html",
+				"/home/philippe/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/philippe/dev/inra/inra-ifris.org/web/squelettes/auteur.html",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/views/index.html.twig",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/main.css",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/js/main.js",
+				"/home/philippe/.config/sublime-text-2/Packages/Theme - Default/Widgets.stTheme",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/files.css",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php",
+				"/home/philippe/dev/cortext/cortext-box/Vagrantfile",
+				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/files/php.ini",
+				"/home/philippe/dev/cortext/cortext-box/README.md",
+				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/manifests/composer.pp",
+				"/home/philippe/.config/sublime-text-2/Packages/Color Scheme - Default/Twilight.tmTheme",
+				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/web/css/lockdin.css",
+				"/home/philippe/.config/sublime-text-2/Packages/User/Markdown.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/philippe/dev/cortext/cortext-graphs"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"(.*)\\n",
+					"\\n\\n",
+					"\"([^\"]*)\",",
+					"\"([^,])*\",",
+					" ",
+					"\"[^,]*\",",
+					"\"[^,]\",",
+					"([^ ]*) ",
+					"(.*)==.*\\n",
+					"(.*)==",
+					"^(.*)==\\n",
+					"(.*)\\n",
+					"\\n",
+					"notelist",
+					"running",
+					"expand selection",
+					"expand",
+					"http",
+					"http://",
+					"192.168.100.100",
+					"192",
+					"192.168.1.100",
+					".168.1.100",
+					"192",
+					"192.168.1.100",
+					"100",
+					"192.168.100.100",
+					"  config.vm.network :forwarded_port, guest:"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\"$1\",",
+					"",
+					"$1\\n",
+					"",
+					"$1\\n",
+					"\"$1\",",
+					",",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/philippe/dev/cortext/cortext-box"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/manifests/init.pp",
+							"settings":
+							{
+								"buffer_size": 2142,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1457,
+										1457
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 204.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/default.pp",
+							"settings":
+							{
+								"buffer_size": 320,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										189,
+										189
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/sources.list",
+							"settings":
+							{
+								"buffer_size": 807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										158,
+										158
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/home/philippe/dev/cortext/cortext-box/lib-python.txt",
+							"settings":
+							{
+								"buffer_size": 996,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										757,
+										757
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/files/python_install_matplotlib.sh",
+							"settings":
+							{
+								"buffer_size": 137,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										30,
+										30
+									]
+								],
+								"settings":
+								{
+									"auto_name": "#!/bin/sh",
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/philippe/dev/cortext/cortext-box/vagrant-package.sh",
+							"settings":
+							{
+								"buffer_size": 188,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										188,
+										188
+									]
+								],
+								"settings":
+								{
+									"auto_name": "#!/bin/sh",
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/philippe/dev/cortext/cortext-box/python-modules.txt",
+							"settings":
+							{
+								"buffer_size": 481,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.684248554913,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.vagrant":
+			{
+				"height": 207.0
+			},
+			"position": "0,1,0,0,0,49,24,689,504,3360,1050",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"def",
+						"puppet/manifests/default.pp"
+					],
+					[
+						"",
+						"puppet/modules/php/manifests/init.pp"
+					],
+					[
+						"inde",
+						"src/cortext/cortext-assets/server/web/index.php"
+					],
+					[
+						"php/",
+						"puppet/modules/php/manifests/init.pp"
+					],
+					[
+						"boot",
+						"src/cortext/cortext-assets/server/app/bootstrap.php"
+					],
+					[
+						"ngin",
+						"puppet/modules/nginx/manifests/init.pp"
+					],
+					[
+						"va",
+						"vagrant.conf"
+					],
+					[
+						".php",
+						"src/cortext/cortext-auth/server/src/app.php"
+					],
+					[
+						"v",
+						"Vagrantfile"
+					],
+					[
+						"nginx/man",
+						"puppet/modules/nginx/manifests/init.pp"
+					],
+					[
+						"main.",
+						"src/cortext/cortext-assets/templates/css/main.css"
+					],
+					[
+						".js",
+						"src/cortext/cortext-assets/templates/js/main.js"
+					],
+					[
+						"index.h",
+						"src/cortext/cortext-assets/server/views/index.html.twig"
+					],
+					[
+						".css",
+						"src/cortext/cortext-assets/templates/css/files.css"
+					],
+					[
+						"oauth2php",
+						"src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php"
+					],
+					[
+						"compe",
+						"puppet/modules/php/manifests/composer.pp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 296.0,
+			"status_bar_visible": true,
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

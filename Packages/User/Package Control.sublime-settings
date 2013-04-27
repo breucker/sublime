@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"Backbone.js",
+		"Handlebars",
+		"Package Control",
+		"PhpBeautifier",
+		"Puppet",
+		"Puppet Syntax checking",
+		"Twig",
+		"Vagrant",
+		"ZenCoding",
+		"ZenGarden"
+	]
+}
