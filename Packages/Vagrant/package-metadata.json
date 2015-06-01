@@ -1,1 +1,1 @@
-{"url": "https://github.com/Stubbs/sublime-vagrant", "version": "2013.04.19.04.33.13", "description": "Vagrant commands for Sublime Text 2"}
+{"description": "Vagrant commands for Sublime Text", "url": "https://github.com/Stubbs/sublime-vagrant", "platforms": ["*"], "version": "2015.04.27.12.00.14", "sublime_text": "*", "dependencies": []}

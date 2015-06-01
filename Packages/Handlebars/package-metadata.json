@@ -1,1 +1,1 @@
-{"url": "https://github.com/daaain/Handlebars", "version": "2013.03.07.12.48.00", "description": "Sublime Text 2 package for Handlerbars.js templates."}
+{"description": "Atom and Sublime Text 2 / 3 package for Handlebars.js templates. https://atom.io/packages/Handlebars and https://sublime.wbond.net/packages/Handlebars.", "url": "https://github.com/daaain/Handlebars", "platforms": ["*"], "version": "2015.05.31.18.29.42", "sublime_text": "*", "dependencies": []}

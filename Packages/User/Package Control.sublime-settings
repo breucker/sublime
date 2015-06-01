@@ -1,14 +1,30 @@
 {
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Backbone.js",
+		"Coffee Formatter",
+		"CoffeeScript",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Git",
 		"Handlebars",
+		"LaTeXTools",
+		"nginx",
 		"Package Control",
+		"PHP Completions Kit",
+		"PHP-Twig",
 		"PhpBeautifier",
+		"PhpNamespace",
 		"Puppet",
 		"Puppet Syntax checking",
+		"SublimeLinter",
 		"Twig",
 		"Vagrant",
+		"VBScript",
 		"ZenCoding",
 		"ZenGarden"
 	]

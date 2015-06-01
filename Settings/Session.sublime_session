@@ -1,17 +1,50 @@
 {
 	"folder_history":
 	[
+		"/home/philippe/cortext/cortext-box",
+		"/home/philippe/Dropbox/_01_pro/esiee/cours-esiee-web/E4_IT_Architecture et développement Web_PHP/2014-2015/Cours/sources",
+		"/run/user/1000/gvfs/sftp:host=lisis-srv-mgr,user=adminlisis/srv/lisis-prod/web/cortext",
+		"/home/philippe/cortext/cortext-dev",
+		"/home/philippe/dev/cortext",
+		"/home/philippe/Dropbox/_01_pro/INRA/2014-contrats-ANR",
+		"/home/philippe/dev/cortext/cortext-dev",
+		"/home/philippe/dev/cortext/projbase",
+		"/home/philippe/Dropbox/_01_pro/INRA/biofuel/outputs/bioenergies",
+		"/home/philippe/dev/inra/anr/projbase",
+		"/home/philippe/dev/inra/anr",
+		"/home/philippe/dev/tmp/docker-apache-php/tutum-docker-php",
+		"/home/philippe/dev/inra/projbase",
+		"/home/philippe/dev/inra/inra-ifris.org/web",
+		"/home/philippe/dev/tmp/docklex",
+		"/home/philippe/dev/tmp/esiee-2014-projets/wonderpicture",
+		"/home/philippe/dev/tmp/esiee-2014-projets/SI-4301B_makdessi_fabianski",
+		"/home/philippe/dev/tmp/esiee-2014-projets/myEsiee",
+		"/home/philippe/dev/tmp/esiee-2014-projets/sketchr",
+		"/home/philippe/dev/tmp/esiee-2014-projets/Petbook",
+		"/home/philippe/dev/tmp/esiee-2014-projets/ProjetPHP-ecommerceVinyles/VinylStore",
+		"/home/philippe/dev/cortext/cortext-projects",
+		"/home/philippe/dev/inra/inra-ifris.org/web/squelettes",
+		"/home/philippe/Dropbox/INRA/2014_cours-esiee-web/E4_IT_Architecture et développement Web_PHP/2013-2014/Cours/sources",
+		"/home/philippe/dev/inra/inra-ifris.org",
+		"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser",
+		"/home/philippe/dev/cortext/cortext-auth",
+		"/home/philippe/dev/cortext/cortext-dashboard/dashboard",
+		"/home/philippe/dev/cortext/cortext",
+		"/home/philippe/dev/cortext/cortext/manager/data",
+		"/home/philippe/dev/jude/agendapp",
+		"/home/philippe/dev/cortext/cortext-assets",
 		"/home/philippe/dev/cortext/cortext-box",
-		"/home/philippe/Dropbox/Photos/cam",
 		"/home/philippe/dev/cortext/cortext-graphs",
+		"/home/philippe/dev/cortext/pulseweb",
+		"/home/philippe/Dropbox/Photos/cam",
 		"/home/philippe/dev/cortext/cortext/manager",
 		"/home/philippe/dev/cortext/cortext-box/puppet",
 		"/home/philippe/dev/cortext/cortext-box/puppet/modules/cortext/manifests"
 	],
-	"last_window_id": 17,
+	"last_window_id": 124,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -19,16 +52,516 @@
 				"selected_items":
 				[
 					[
-						"pa",
-						"packages"
+						"upd",
+						"updateFilesHash"
+					],
+					[
+						"update",
+						"updateFilesInDir"
+					],
+					[
+						"li",
+						"lib_linux"
+					],
+					[
+						"term",
+						"terms_extractor"
+					],
+					[
+						"terms",
+						"terms_extraction"
+					],
+					[
+						"py",
+						"python"
+					],
+					[
+						"n",
+						"nbFileToWrite"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"crea",
+						"createYmlFromJob"
+					],
+					[
+						"func",
+						"function 	Language Construct"
+					],
+					[
+						"para",
+						"parameters"
+					],
+					[
+						"set",
+						"setScript"
+					],
+					[
+						"job",
+						"jobStarted"
+					],
+					[
+						"ch",
+						"chmodFileOk"
+					],
+					[
+						"com",
+						"compatibleFiles"
+					],
+					[
+						"cor",
+						"corpusDescriptor"
+					],
+					[
+						"corp",
+						"corpus_id"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"child",
+						"childName"
+					],
+					[
+						"parent",
+						"parentTriggerValue"
+					],
+					[
+						"chil",
+						"childrenToHide"
+					],
+					[
+						"chi",
+						"childrenToShow"
+					],
+					[
+						"paren",
+						"parentName"
+					],
+					[
+						"par",
+						"parent"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"condi",
+						"conditionName"
+					],
+					[
+						"condition",
+						"conditions"
+					],
+					[
+						"r",
+						"raw	raw"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"sect",
+						"sectName"
+					],
+					[
+						"proj",
+						"project_id"
+					],
+					[
+						"wD",
+						"wDefault"
+					],
+					[
+						"strlo",
+						"strtolower"
+					],
+					[
+						"__c",
+						"__construct()	Magic Method"
 					],
 					[
 						"fun",
-						"fun	function …"
+						"function 	Language Construct"
 					],
 					[
-						"oau",
-						"oauth_server"
+						"pu",
+						"public 	Language Construct"
+					],
+					[
+						"desc",
+						"Descriptor"
+					],
+					[
+						"Script",
+						"ScriptDescriptor"
+					],
+					[
+						"label",
+						"labelize"
+					],
+					[
+						"la",
+						"labelize"
+					],
+					[
+						"id",
+						"idcorpus"
+					],
+					[
+						"json",
+						"jsonCorpus"
+					],
+					[
+						"pri",
+						"private"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"Job",
+						"JobForm"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"param",
+						"parameters"
+					],
+					[
+						"grav",
+						"grav_url"
+					],
+					[
+						"filter",
+						"filters"
+					],
+					[
+						"sf",
+						"sfRequest"
+					],
+					[
+						"time",
+						"timeCharts"
+					],
+					[
+						"dia",
+						"disabled"
+					],
+					[
+						"pro",
+						"programmes"
+					],
+					[
+						"h",
+						"heads"
+					],
+					[
+						"fie",
+						"fieldName"
+					],
+					[
+						"res",
+						"researcher"
+					],
+					[
+						"projec",
+						"project"
+					],
+					[
+						"home",
+						"home_url"
+					],
+					[
+						"hom",
+						"home_url"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"sub",
+						"substr"
+					],
+					[
+						"db",
+						"dbFile"
+					],
+					[
+						"DB",
+						"DB_DRIVER"
+					],
+					[
+						"DB_",
+						"DB_DBNAME"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"u",
+						"user"
+					],
+					[
+						"dash",
+						"dashboardConfig"
+					],
+					[
+						"Coll",
+						"Collections"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"User",
+						"user_id"
+					],
+					[
+						"login",
+						"loggingIn"
+					],
+					[
+						"loggin",
+						"loggingIn"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"pr",
+						"project"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"ove",
+						"overflow-x"
+					],
+					[
+						"ren",
+						"render_composition"
+					],
+					[
+						"seach",
+						"searchString"
+					],
+					[
+						"se",
+						"searchReg"
+					],
+					[
+						"sea",
+						"searchReg"
+					],
+					[
+						"sa",
+						"searchString"
+					],
+					[
+						"dar",
+						"dashboardConfig"
+					],
+					[
+						"mU",
+						"mUser"
+					],
+					[
+						"acces",
+						"accessToken"
+					],
+					[
+						"mUser",
+						"mUser_id"
+					],
+					[
+						"call",
+						"callback_url"
+					],
+					[
+						"resul",
+						"result_id"
+					],
+					[
+						"result",
+						"result_id"
+					],
+					[
+						"ha",
+						"hash"
+					],
+					[
+						"comment",
+						"comments"
+					],
+					[
+						"perm",
+						"permalink"
+					],
+					[
+						"dir",
+						"dirDeleted"
+					],
+					[
+						"js",
+						"jsParams"
+					],
+					[
+						"ass",
+						"assetsPath"
+					],
+					[
+						"tri",
+						"trigger_error"
+					],
+					[
+						"new",
+						"new_graph"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"pare",
+						"parseInt"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"url",
+						"urlEdit"
+					],
+					[
+						"upload",
+						"uploadedCorpus"
+					],
+					[
+						"calback",
+						"callback_url"
+					],
+					[
+						"choo",
+						"chooseScript"
+					],
+					[
+						"choose",
+						"chooseCorpus"
+					],
+					[
+						"_id",
+						"_idCorpus"
+					],
+					[
+						"t",
+						"text-align"
+					],
+					[
+						"fade",
+						"fadeIn"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"impo",
+						"import-mongogpg"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"search",
+						"searchString"
+					],
+					[
+						"Reg",
+						"regex"
+					],
+					[
+						"mon",
+						"mongoDbName"
+					],
+					[
+						"mongo",
+						"mongoHost"
+					],
+					[
+						"mongoDb",
+						"mongoDbName"
+					],
+					[
+						"st",
+						"stdout"
+					],
+					[
+						"sat",
+						"status"
+					],
+					[
+						"data",
+						"datasCallback"
+					],
+					[
+						"met",
+						"Method"
+					],
+					[
+						"log",
+						"logRefferrer"
+					],
+					[
+						"proje",
+						"project"
+					],
+					[
+						"export",
+						"exportRIS"
 					]
 				]
 			},
@@ -39,412 +572,222 @@
 				"selected_items":
 				[
 					[
-						"inst",
-						"Package Control: Install Package"
+						"pull",
+						"Git: Pull"
 					],
 					[
-						"user",
-						"Preferences: Settings - User"
+						"pus",
+						"Git: Push"
 					],
 					[
-						"fo",
-						"Format: Php"
+						"com",
+						"Git: Commit"
 					],
 					[
-						"php",
-						"Format: Php"
+						"add",
+						"Git: Add Current File"
 					],
 					[
-						"va",
-						"Vagrant: Start"
+						"push",
+						"Git: Push"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
+						"pu",
+						"Git: Push"
 					],
 					[
-						"html",
-						"Set Syntax: HTML (Twig)"
+						"co",
+						"Git: Commit"
 					],
 					[
-						"keys",
-						"Preferences: Key Bindings - Default"
+						"puh",
+						"Git: Push"
 					],
 					[
-						"htm",
-						"Set Syntax: HTML"
+						"git",
+						"Git: Commit"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"a",
+						"Git: Add Current File"
 					],
 					[
-						"pupp",
-						"Package Control: Upgrade Package"
+						"git push",
+						"Git: Push"
+					],
+					[
+						"ad",
+						"Git: Add..."
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"cu",
+						"Git: Add Current File"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"sta",
+						"Git: Status"
+					],
+					[
+						"log",
+						"Git: Log Current File"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"statu",
+						"Git: Status"
+					],
+					[
+						"dif",
+						"Git: Diff Staged"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"ins",
 						"Package Control: Install Package"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
+						"in",
 						"Package Control: Install Package"
 					],
 					[
 						"mark",
-						"Set Syntax: MultiMarkdown"
-					]
-				],
-				"width": 638.0
-			},
-			"console":
-			{
-				"height": 267.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/philippe/Dropbox/Photos/cam/97-20130422113130-00.jpg",
-				"/home/philippe/Bureau/wifi_inra-user_osx_lion.mobileconfig",
-				"/home/philippe/.cache/.fr-jbERj9/wifi_inra-user_osx_lion.mobileconfig",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/app/bootstrap.php",
-				"/home/philippe/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/src/app.php",
-				"/home/philippe/index.html",
-				"/home/philippe/Bureau/index.html",
-				"/home/philippe/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/philippe/dev/inra/inra-ifris.org/web/squelettes/auteur.html",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/views/index.html.twig",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/main.css",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/js/main.js",
-				"/home/philippe/.config/sublime-text-2/Packages/Theme - Default/Widgets.stTheme",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/files.css",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php",
-				"/home/philippe/dev/cortext/cortext-box/Vagrantfile",
-				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/files/php.ini",
-				"/home/philippe/dev/cortext/cortext-box/README.md",
-				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/manifests/composer.pp",
-				"/home/philippe/.config/sublime-text-2/Packages/Color Scheme - Default/Twilight.tmTheme",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/web/css/lockdin.css",
-				"/home/philippe/.config/sublime-text-2/Packages/User/Markdown.sublime-settings"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"/home/philippe/dev/cortext/cortext-graphs"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"(.*)\\n",
-					"\\n",
-					"notelist",
-					"running",
-					"expand selection",
-					"expand",
-					"http",
-					"http://",
-					"192.168.100.100",
-					"192",
-					"192.168.1.100",
-					".168.1.100",
-					"192",
-					"192.168.1.100",
-					"100",
-					"192.168.100.100",
-					"  config.vm.network :forwarded_port, guest:"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"\"$1\",",
-					",",
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 33.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
+						"Bookmarks: Toggle"
 					],
 					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.vagrant":
-			{
-				"height": 207.0
-			},
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"",
-						"puppet/modules/php/manifests/init.pp"
+						"status",
+						"Git: Status"
 					],
 					[
-						"inde",
-						"src/cortext/cortext-assets/server/web/index.php"
+						"pul",
+						"Git: Pull Current Branch"
 					],
 					[
-						"php/",
-						"puppet/modules/php/manifests/init.pp"
+						"comm",
+						"Git: Commit"
 					],
 					[
-						"boot",
-						"src/cortext/cortext-assets/server/app/bootstrap.php"
+						"rem",
+						"Package Control: Remove Package"
 					],
 					[
-						"ngin",
-						"puppet/modules/nginx/manifests/init.pp"
+						"Package Control: re",
+						"Package Control: Remove Package"
 					],
 					[
-						"va",
-						"vagrant.conf"
+						"inst",
+						"Package Control: Install Package"
 					],
 					[
-						".php",
-						"src/cortext/cortext-auth/server/src/app.php"
+						"java",
+						"Set Syntax: JavaScript"
 					],
 					[
-						"v",
-						"Vagrantfile"
+						"curr",
+						"Git: Add Current File"
 					],
 					[
-						"nginx/man",
-						"puppet/modules/nginx/manifests/init.pp"
+						"git add",
+						"Git: Add..."
 					],
 					[
-						"main.",
-						"src/cortext/cortext-assets/templates/css/main.css"
+						"pup",
+						"Set Syntax: Puppet"
 					],
 					[
-						".js",
-						"src/cortext/cortext-assets/templates/js/main.js"
+						"han",
+						"Set Syntax: Handlebars"
 					],
 					[
-						"index.h",
-						"src/cortext/cortext-assets/server/views/index.html.twig"
+						"vb",
+						"Set Syntax: VBScript"
 					],
 					[
-						".css",
-						"src/cortext/cortext-assets/templates/css/files.css"
+						"hist",
+						"Git: Commit history"
 					],
 					[
-						"oauth2php",
-						"src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php"
+						"hi",
+						"Git: Commit history"
 					],
 					[
-						"compe",
-						"puppet/modules/php/manifests/composer.pp"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 296.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"mat",
-						"matplotlib"
+						"do",
+						"Set Syntax: Dockerfile"
 					],
 					[
-						"pa",
-						"packages"
+						"doc",
+						"Set Syntax: Dockerfile"
 					],
 					[
-						"pac",
-						"packages"
+						"dock",
+						"Set Syntax: Dockerfile"
 					],
 					[
-						"pip",
-						"pip_modules"
+						"hand",
+						"Set Syntax: Handlebars"
 					],
 					[
-						"es",
-						"easy_install"
+						"histo",
+						"Git: Commit history"
 					],
 					[
-						"fun",
-						"fun	function …"
+						"bla",
+						"Git: Blame"
 					],
 					[
-						"oau",
-						"oauth_server"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/manifests/init.pp",
-					"settings":
-					{
-						"buffer_size": 2142,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/default.pp",
-					"settings":
-					{
-						"buffer_size": 320,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/sources.list",
-					"settings":
-					{
-						"buffer_size": 807,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "\"libboost-mpi-python-dev\",\"libboost-mpi-python1.42-dev\",\"libboost-mpi-python1.42.0\",\"libboost-python-dev\",\"libboost-python1.42-dev\",\"libboost-python1.42.0\",\"libpython2.6\",\"python\",\"python-apptools\",\"python-apt\",\"python-apt-common\",\"python-cairo\",\"python-central\",\"python-chaco\",\"python-configobj\",\"python-dateutil\",\"python-dev\",\"python-enable\",\"python-enthoughtbase\",\"python-envisagecore\",\"python-envisageplugins\",\"python-gobject\",\"python-jaxml\",\"python-jsonpickle\",\"python-libsmbios\",\"python-lxml\",\"python-matplotlib\",\"python-matplotlib-data\",\"python-minimal\",\"python-networkx\",\"python-nose\",\"python-numpy\",\"python-pip\",\"python-pkg-resources\",\"python-pyparsing\",\"python-pyrex\",\"python-reportbug\",\"python-scipy\",\"python-setuptools\",\"python-simplejson\",\"python-sqlite\",\"python-support\",\"python-tk\",\"python-traits\",\"python-traitsbackendwx\",\"python-traitsgui\",\"python-tz\",\"python-vtk\",\"python-wxgtk2.8\",\"python-wxversion\",\"python-yaml\",\"python2.6-dev\",\"r-cran-nws\",\"reportbug\",\"scanerrlog\",\"mayavi2\"",
-					"file": "/home/philippe/dev/cortext/cortext-box/lib-python.txt",
-					"file_size": 1028,
-					"file_write_time": 1366990715000000,
-					"settings":
-					{
-						"buffer_size": 996,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "#!/bin/sh\n#install matplotlib\ncd /home/vagrant\ngit clone git://github.com/matplotlib/matplotlib.git\ncd matplotlib\npython setup.py install",
-					"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/files/python_install_matplotlib.sh",
-					"file_size": 137,
-					"file_write_time": 1366996346000000,
-					"settings":
-					{
-						"buffer_size": 137,
-						"line_ending": "Unix",
-						"name": "#!/bin/sh"
-					}
-				},
-				{
-					"file": "/home/philippe/dev/cortext/cortext-box/vagrant-package.sh",
-					"settings":
-					{
-						"buffer_size": 188,
-						"line_ending": "Unix",
-						"name": "#!/bin/sh"
-					}
-				},
-				{
-					"contents": "\"AppTools\",\"BeautifulSoup\",\"Chaco\",\"Enable\",\"EnthoughtBase\",\"EnvisageCore\",\"EnvisagePlugins\",\"Mayavi\",\"PyYAML\",\"Pygments\",\"Pyrex\",\"Pyste\",\"Tenjin\",\"Traits\",\"TraitsBackendWX\",\"TraitsGUI\",\"VTK\",\"Whoosh\",\"argparse\",\"chardet\",\"configobj\",\"distribute\",\"httpie\",\"iconv\",\"jaxml\",\"jsonpickle\",\"lxml\",\"matplotlib\",\"networkx\",\"nltk\",\"nose\",\"numpy\",\"pyparsing\",\"pysqlite\",\"python-apt\",\"python-dateutil\",\"pytz\",\"reportbug\",\"requests\",\"scipy\",\"simplejson\",\"wsgiref\",\"wxPython\",\"wxPython-common\"",
-					"file": "/home/philippe/dev/cortext/cortext-box/python-modules.txt",
-					"file_size": 723,
-					"file_write_time": 1366985705000000,
-					"settings":
-					{
-						"buffer_size": 481,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 159.0,
-				"selected_items":
-				[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"diff cu",
+						"Git: Diff Current File"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
 					[
 						"sort",
 						"Sort Lines"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
 						"user",
 						"Preferences: Settings - User"
 					],
@@ -473,10 +816,6 @@
 						"Preferences: Key Bindings - Default"
 					],
 					[
-						"htm",
-						"Set Syntax: HTML"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
 					],
@@ -485,20 +824,12 @@
 						"Package Control: Upgrade Package"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
 						"instal",
 						"Package Control: Install Package"
 					],
 					[
 						"pack",
 						"Package Control: Install Package"
-					],
-					[
-						"mark",
-						"Set Syntax: MultiMarkdown"
 					]
 				],
 				"width": 449.0
@@ -518,39 +849,227 @@
 			},
 			"file_history":
 			[
-				"/home/philippe/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/philippe/Dropbox/Photos/cam/97-20130422113130-00.jpg",
-				"/home/philippe/Bureau/wifi_inra-user_osx_lion.mobileconfig",
-				"/home/philippe/.cache/.fr-jbERj9/wifi_inra-user_osx_lion.mobileconfig",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/app/bootstrap.php",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/src/app.php",
-				"/home/philippe/index.html",
-				"/home/philippe/Bureau/index.html",
+				"/home/philippe/Dropbox/_01_pro/esiee/cours-esiee-web/E4_IT_Architecture et développement Web_PHP/2014-2015/Cours/sources/si4301b-cours5-design-pattern-breucker.tex",
+				"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext/ScriptParameters.php",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/lib/handsontable/handsontable.full.min.js",
+				"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext/Cfile.php",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/templates/viewers/viewCsv.html",
+				"/home/philippe/cortext/cortext-box/cortext-projects/env/parameters.js",
+				"/home/philippe/cortext/cortext/manager/apps/frontend/modules/job/actions/actions.class.php",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/views/viewcsv.coffee",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/app.coffee",
+				"/home/philippe/cortext/cortext-box/cortext-manager/views/scriptParams.twig",
+				"/home/philippe/cortext/cortext-box/cortext-methods/dummy/dummy.php",
+				"/home/philippe/cortext/cortext-box/cortext-methods/Dockerfile",
+				"/home/philippe/cortext/cortext-box/cortext-methods/install-nltk-punkt.py",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserController.php",
+				"/home/philippe/cortext/cortext-box/cortext-methods/parser_science/data_parser.yaml",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserServiceProvider.php",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserManager.php",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/User.php",
+				"/home/philippe/dev/cortext/cortext-box/preconfig.txt",
+				"/home/philippe/cortext/cortext-box/cortext-methods/parser_science/parser_science_se.py",
+				"/home/philippe/dev/cortext/cortext-methods/Dockerfile",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/templates/element/analysis.html",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/templates/viewers/viewPdf.html",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/views/view_csv.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/widgets/path.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/user.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/project.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/element.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/helpers.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/element/element.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/element/comment.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/element/message.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/app.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/env/main.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/env/parameters.js",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/data/parameters.json",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/Job.php",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/ScriptDescriptor.php",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/Cfile.php",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/widgets/user_infos.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/widgets/participation.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/project_list.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/queued_scripts.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/project/project.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/env/parameters.js.cortext",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/README.md",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/server/main.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/index.js",
+				"/home/philippe/cortext/cortext-dev/cortext-assets/server/app/config.php",
+				"/home/philippe/cortext/cortext-dev/cortext-assets/server/app/route_upload.php",
+				"/home/philippe/cortext/cortext-dev/cortext-assets/server/app/route_callback.php",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/app/mainControllers.php",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/login.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/server/oauth-cortext/oauth-cortext-server.js",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/dashboard.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-methods/parser_science/data_parser.yaml",
+				"/home/philippe/cortext/cortext-dev/cortext-methods/analysis/analysis.yaml",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/ScriptParameters.php",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/.meteor/local/build/programs/client/app/client/views/project.coffee.js",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/.meteor/local/build/programs/client/app/client/views/project.coffee.js.map",
+				"/home/philippe/smbhosts.txt",
+				"/media/philippe/philkey/plop",
+				"/home/philippe/cortext/cortext-box/cortext-manager/data/parameters.json",
+				"/home/philippe/dev/cortext/cortext-box/cortext-assets/server/documents/1366/13667e6a51a0737d4f45e78c165cb496/corpus-speclean3ex.yaml",
+				"/home/philippe/cortext/cortext-box/cortext-assets/server/app/route_upload.php",
+				"/home/philippe/cortext/cortext-box/cortext-assets/server/app/tools.php",
+				"/home/philippe/cortext/cortext-box/Vagrantfile",
+				"/home/philippe/cortext/cortext-box/cortext-manager/README.md",
+				"/home/philippe/cortext/cortext-box/cortext-manager/composer.json",
+				"/home/philippe/cortext/cortext-box/cortext-manager/data/parameters.json.dist",
+				"/home/philippe/Dropbox/_00_perso/chiffrofetes/Chiffofête-mozilla-2014.md",
+				"/home/philippe/Dropbox/_00_perso/chiffrofetes/2014-11-06-Chiffrofete-ubuntu party .md",
+				"/home/philippe/backup/philkey/utils/office2013/licences.txt",
+				"/home/philippe/dev/cortext/cortext-box/1_create_MV.sh",
+				"/home/philippe/dev/cortext/cortext-auth/server/app/bootstrap.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/src/Ctprofile/ControllerProvider.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/User.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/src/Ctauth/ControllerProvider.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/sql/mysql_v2.sql",
+				"/home/philippe/dev/cortext/cortext-auth/server/data/parameters.json",
+				"/home/philippe/dev/cortext/cortext-auth/server/tests/Ctauth/Tests/AuthTest.php",
+				"/home/philippe/Dropbox/_01_pro/INRA/2013_09_cours-ESIEE/esiee-atelier.md",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/Script.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/ScriptDescriptor.php",
+				"/home/philippe/Téléchargements/ctmanager (1).sql",
+				"/home/philippe/Téléchargements/ctmanager (2).sql",
+				"/home/philippe/dev/cortext/cortext-manager/README.md",
+				"/home/philippe/dev/cortext/cortext-assets/server/app/route_auth.php",
+				"/home/philippe/dev/cortext/cortext-assets/server/app/config.php",
+				"/home/philippe/dev/cortext/cortext-assets/server/app/route_docs.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/data/parameters.json.dist",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/User.php",
+				"/home/philippe/dev/cortext/cortext-manager/app/bootstrap.php",
+				"/home/philippe/dev/cortext/cortext/manager/apps/frontend/modules/project/actions/actions.class.php",
+				"/home/philippe/dev/cortext/cortext-manager/views/index.twig",
+				"/home/philippe/dev/cortext/cortext-manager/app/mainControllers.php",
+				"/home/philippe/dev/cortext/cortext-manager/web/js/job-main.js",
+				"/home/philippe/dev/cortext/cortext-auth/install.sh",
+				"/home/philippe/dev/cortext/cortext-manager/app/config.php",
+				"/home/philippe/dev/cortext/cortext-manager/data/parameters.json.dist",
+				"/home/philippe/dev/cortext/cortext-projects/client/views/project.coffee",
+				"/home/philippe/dev/cortext/cortext/manager/apps/frontend/modules/job/actions/actions.class.php",
+				"/home/philippe/Dropbox/_01_pro/INRA/2014-contrats-ANR/projbase-projects-2014-10-28-18-32-50.csv",
+				"/home/philippe/Dropbox/_01_pro/cortext_perso/2014-risis/2014-10-27-mission-orsal.md",
+				"/home/philippe/dev/cortext/cortext-manager/views/_jobparams.php",
+				"/home/philippe/dev/cortext/cortext.sublime-workspace",
+				"/home/philippe/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 				"/home/philippe/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/philippe/dev/inra/inra-ifris.org/web/squelettes/auteur.html",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/views/index.html.twig",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/main.css",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/js/main.js",
-				"/home/philippe/.config/sublime-text-2/Packages/Theme - Default/Widgets.stTheme",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/templates/css/files.css",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php",
-				"/home/philippe/dev/cortext/cortext-box/Vagrantfile",
-				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/files/php.ini",
-				"/home/philippe/dev/cortext/cortext-box/README.md",
-				"/home/philippe/dev/cortext/cortext-box/puppet/modules/php/manifests/composer.pp",
-				"/home/philippe/.config/sublime-text-2/Packages/Color Scheme - Default/Twilight.tmTheme",
-				"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-auth/server/web/css/lockdin.css",
-				"/home/philippe/.config/sublime-text-2/Packages/User/Markdown.sublime-settings"
+				"/home/philippe/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/philippe/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/Tests/test.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/ScriptTest.php",
+				"/home/philippe/Téléchargements/listeprojetsfinances.csv",
+				"/home/philippe/dev/cortext/cortext-manager/composer.json",
+				"/home/philippe/dev/cortext/cortext-manager/src/JobForm.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/front-controllers.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Job.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/User.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cfile.php",
+				"/home/philippe/dev/cortext/cortext-manager/data/parameters.json",
+				"/home/philippe/dev/cortext/cortext-manager/src/Script.php",
+				"/home/philippe/dev/cortext/cortext-manager/views/layout.twig",
+				"/home/philippe/c",
+				"/home/philippe/.cache/.fr-k7Wi1x/dokuwiki-template-zenlike-6.0.1/README",
+				"/home/philippe/Dropbox/_01_pro/cortext_perso/2014-risis/2014-02-03-risis.md",
+				"/home/philippe/Dropbox/_01_pro/INRA/2014-contrats-ANR/ListeProjetsFinances.csv",
+				"/home/philippe/dev/cortext/projbase/apps/frontend/config/routing.yml",
+				"/home/philippe/dev/cortext/projbase/apps/frontend/modules/projviz/actions/actions.class.php"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 41.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					"/home/philippe/cortext/cortext-box/cortext-manager",
+					"/home/philippe/cortext/cortext-box/cortext-auth",
+					"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext/mcp",
+					"/home/philippe/cortext/cortext-box/cortext-assets/server/app",
+					"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext",
+					"/home/philippe/cortext/cortext-dev/cortext-projects",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client/views",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/server",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/models",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates",
+					"/home/philippe/cortext/cortext-dev/cortext-projects",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client",
+					"/home/philippe/cortext/cortext-box/cortext-manager",
+					"/home/philippe/dev/cortext/cortext-assets/server",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client/views",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/.meteor/local/build/programs/server/packages",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects/server/oauth-cortext",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-graphs",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client/css",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-assets",
+					"/home/philippe/dev/cortext/cortext-assets/server/app",
+					"/home/philippe/dev/cortext/cortext-dev/cortext/manager",
+					"/home/philippe/dev/cortext/cortext-dev/cortext/manager/apps/frontend",
+					"/home/philippe/dev/cortext/cortext-auth/server/views",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser",
+					"/home/philippe/dev/cortext/cortext-auth/server/app",
+					"/home/philippe/dev/cortext/cortext-auth/server/src",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser",
+					"/home/philippe/dev/cortext/cortext-auth",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/views",
+					"/home/philippe/dev/cortext/cortext-box/puppet",
+					"/home/philippe/dev/cortext/cortext/manager/apps/frontend",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-projects/client/views",
+					"/home/philippe/dev/cortext/cortext/manager/mcp",
+					"/home/philippe/dev/cortext/cortext/manager",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/client/templates",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext/manager/apps",
+					"/home/philippe/dev/cortext/cortext",
+					"/home/philippe/dev/cortext/cortext-graphs",
+					"/home/philippe/dev/cortext/cortext-assets",
+					"/home/philippe/dev/cortext/cortext-assets/server/app",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext/manager/mcp",
+					"/home/philippe/dev/cortext/taniki/cortext-projects/client",
+					"/home/philippe/dev/cortext/taniki/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-dashboard/dashboard/.meteor/local/build",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2",
+					"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-graphs",
+					"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/app",
+					"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets",
 					"/home/philippe/dev/cortext/cortext-graphs"
 				]
 			},
@@ -559,41 +1078,259 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"(.*)\\n",
-					"\\n\\n",
-					"\"([^\"]*)\",",
-					"\"([^,])*\",",
+					"2014",
+					"récuren",
+					"before",
+					" e",
+					"isRunning",
+					"run",
+					"umask",
+					"print_r",
+					"die",
+					"var_dump",
+					"getUserDocs",
+					"Cfile::getAllFilesFromDir",
+					"getAllFilesFromDir",
+					"monolog",
+					"glob_recur",
+					"debug",
+					"corpus_file",
+					"fullname",
+					"['name",
+					"corpus_name",
+					"corpusDescriptor",
+					"corpus_name",
+					"RUN apt-get install -y --force-yes(.*)\\n",
+					"RUN",
+					"apt-get -y",
 					" ",
-					"\"[^,]*\",",
-					"\"[^,]\",",
-					"([^ ]*) ",
-					"(.*)==.*\\n",
-					"(.*)==",
-					"^(.*)==\\n",
-					"(.*)\\n",
-					"\\n",
-					"notelist",
-					"running",
-					"expand selection",
-					"expand",
-					"http",
-					"http://",
-					"192.168.100.100",
-					"192",
-					"192.168.1.100",
-					".168.1.100",
-					"192",
-					"192.168.1.100",
-					"100",
-					"192.168.100.100",
-					"  config.vm.network :forwarded_port, guest:"
+					"RUN apt-get install -y --force-yes python python-setuptools python-lxml python-apptools python-apt python-apt-common python-cairo python-chaco python-configobj python-dateutil python-dev python-enable python-enthoughtbase python-gobject python-jaxml python-lxml python-matplotlib python-numpy python-pip python-pkg-resources python-pyparsing python-pyrex python-reportbug python-scipy python-setuptools python-sqlite python-support python-tk python-traits python-tz python-vtk python-wxversion python-yaml git curl unzip wget nano",
+					" ",
+					"RUN",
+					"expanded",
+					"csv",
+					"demo",
+					"Handlebars.registerHelper",
+					"Template[",
+					"isNotAComment",
+					"Template.",
+					"$el",
+					"html Template.",
+					"Template(",
+					".html(",
+					".html ",
+					"Template",
+					"comment-item",
+					"required",
+					"required: yes",
+					"pubmed",
+					"/job/new",
+					"grant",
+					"\\$this->([^,]*)",
+					"`([^`]*)`",
+					"`[^`]*`",
+					"insert",
+					"corpu_id",
+					"`",
+					"public",
+					"increment",
+					"$app['parameters']['Storage']",
+					"oauth.dev",
+					"sms",
+					"authorized",
+					"getCom",
+					"corpus",
+					"descriptor",
+					"executeGenerateFieldsFromYml",
+					"param",
+					"Error in form",
+					"error",
+					"wOptions",
+					"help",
+					"title",
+					"widg",
+					"tab-pane",
+					"tool",
+					"parseInt",
+					"expanded: y",
+					"['widget']['source']",
+					"'list'",
+					"$choices = ",
+					"wData",
+					"default",
+					"parent",
+					"CONS_KEY",
+					"user",
+					"each",
+					"script",
+					"script:",
+					"script ",
+					"script",
+					"form",
+					"context",
+					":[\\s]?\"([^\"]*)\"",
+					"subm",
+					"[\\s]+",
+					" [^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ]\\?",
+					" [^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ ]\\?",
+					"\\?\\?[^\\?]*\\?\\?",
+					" [^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ ]\\?",
+					" d?",
+					" l?",
+					"[^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ]\\?[^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ]",
+					"l'",
+					"([\\.\\?\\;\\s]+)L ",
+					"([\\.\\?\\;\\s]+)l ",
+					"½uvre",
+					"***",
+					"»",
+					"«",
+					"([\\wéèàùç])\\?([\\wéèàùç])",
+					"([\\w])\\?([\\w])",
+					"ffluents",
+					"[\\w](\\?)[\\w]",
+					"[\\w]\\?[\\w]",
+					"[^\\w]\\?[^\\w]",
+					"[^\\S]\\?[^\\S]",
+					"[^s]\\?[^s]",
+					"[^\\s]\\?[^\\s]",
+					"L\\?",
+					"\\?",
+					"[^[[:space]]]\\?",
+					"[^\\s]\\?[^\\s]",
+					".*[^\\s]\\?+[^\\s]",
+					".*\\?+",
+					"’",
+					"access",
+					"context",
+					"submit",
+					"37",
+					"util"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"récurren",
+					"$1",
+					"$1 ",
+					"",
+					"apt-get install -y",
+					"\\nRUN apt-get -y --force-yes ",
+					"\\nRUN apt-get -y --force-yes",
+					"\\nRUN ",
+					"  ",
+					"UI.registerHelper",
+					"commentItem",
+					"required: no",
+					"\"$1\" => $this->$1",
+					"$1 => $this->$1",
+					"$1 = ?",
+					"\\$this->$1",
+					"?",
+					"$",
+					"private",
+					"auth.cortext.dev:8080",
+					"deciParseInt",
+					": \"\"",
+					"",
+					"\\n",
+					"d'",
+					"l'",
+					"$1L'",
+					"$1l'",
+					"oeuvre",
+					"'",
+					"$1 $2",
+					"$1 ? $2",
+					" ? ",
+					"'",
+					"$message, $app = null",
+					"$app['monolog']",
+					"\\Exception",
+					"getCorpusMetas",
+					"userId",
+					"isPublic",
+					"set",
+					"'",
+					"[",
+					"Programme",
+					"programme",
+					"$organisation",
+					"$nod",
+					"$nod['label]",
+					"outputResearcherProject",
+					"\"researcher\", \"project\"",
+					"",
+					":",
+					"\"",
+					" ",
+					",",
+					"",
+					" ",
+					"\\s",
+					"\\n",
+					"log in",
+					"Log in",
+					"python2.7",
+					"fr",
+					"precise",
+					"  ",
+					"quantal",
+					"auth.cortext.net",
+					"managerv2.cortext.net",
+					"  -",
+					",",
+					"Require all granted",
+					"Require All granted",
+					"getAllArticles()",
+					"",
+					"  ",
+					" ",
+					"#elements",
+					"getItem",
+					"getAll",
+					"storage.",
+					"",
+					"document",
+					"  ",
+					">\\n<div",
+					"  ",
+					"#console.log",
+					"  ",
+					"@user_id",
+					"\\\"",
+					"    ",
+					"//console.log",
+					"/:accessToken",
+					"$request->getParameter(\"accessToken\");",
+					"/:accessToken/",
+					"$this->accessToken",
+					"getUserInfosFromOauth",
+					",",
+					"noteedit",
+					"CorTextGraphs.noteedit",
+					"noteinfo",
+					"CorTextGraphs.nodenotelist",
+					"dashboardConfig.url[",
+					"",
+					"\"",
+					"'",
+					"ô",
+					"é",
+					"É",
+					"\"",
+					"",
+					"€",
+					"",
+					"<tr><td>",
+					"</td></tr>",
+					"<td>$1</td>",
+					"<td>$1</td>\\n",
+					"<tr>$1</tr>\\n",
+					"<tr>$1</tr>",
 					"\"$1\",",
 					"",
 					"$1\\n",
@@ -609,213 +1346,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/home/philippe/dev/cortext/cortext-box"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/manifests/init.pp",
-							"settings":
-							{
-								"buffer_size": 2142,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1457,
-										1457
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 204.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/default.pp",
-							"settings":
-							{
-								"buffer_size": 320,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										189,
-										189
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/philippe/dev/cortext/cortext-box/puppet/manifests/sources.list",
-							"settings":
-							{
-								"buffer_size": 807,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										158,
-										158
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 2,
-					"sheets":
-					[
-						{
-							"buffer": 3,
-							"file": "/home/philippe/dev/cortext/cortext-box/lib-python.txt",
-							"settings":
-							{
-								"buffer_size": 996,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										757,
-										757
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/philippe/dev/cortext/cortext-box/puppet/modules/python/files/python_install_matplotlib.sh",
-							"settings":
-							{
-								"buffer_size": 137,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										30,
-										30
-									]
-								],
-								"settings":
-								{
-									"auto_name": "#!/bin/sh",
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/philippe/dev/cortext/cortext-box/vagrant-package.sh",
-							"settings":
-							{
-								"buffer_size": 188,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										188,
-										188
-									]
-								],
-								"settings":
-								{
-									"auto_name": "#!/bin/sh",
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/home/philippe/dev/cortext/cortext-box/python-modules.txt",
-							"settings":
-							{
-								"buffer_size": 481,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 34.0
@@ -833,18 +1363,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.684248554913,
 					1.0
 				],
 				"rows":
@@ -854,11 +1377,18 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 331.0
+			},
+			"output.git":
+			{
+				"height": 393.0
+			},
 			"output.vagrant":
 			{
 				"height": 207.0
 			},
-			"position": "0,1,0,0,0,49,24,689,504,3360,1050",
 			"replace":
 			{
 				"height": 64.0
@@ -870,16 +1400,324 @@
 				"selected_items":
 				[
 					[
-						"def",
-						"puppet/manifests/default.pp"
+						"mcpconfig",
+						"cortext-manager/src/Cortext/mcp/config/config.php"
+					],
+					[
+						"util",
+						"cortext-manager/src/Cortext/Util.php"
+					],
+					[
+						"maincon",
+						"cortext-manager/app/mainControllers.php"
+					],
+					[
+						"param",
+						"cortext-manager/data/parameters.json"
+					],
+					[
+						"script",
+						"cortext-manager/src/Cortext/Script.php"
+					],
+					[
+						"script.p",
+						"cortext-manager/src/Cortext/Script.php"
 					],
 					[
 						"",
-						"puppet/modules/php/manifests/init.pp"
+						"cortext-manager/src/Cortext/Script.php"
+					],
+					[
+						"managerjobaction.class",
+						"cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"tool",
+						"cortext-assets/server/app/tools.php"
+					],
+					[
+						"data",
+						"config/databases.yml"
+					],
+					[
+						"e",
+						"lib/model/Export.class.php"
+					],
+					[
+						"expo",
+						"lib/model/Export.class.php"
+					],
+					[
+						"project",
+						"cortext-projects/client/views/project.coffee"
+					],
+					[
+						"conf",
+						"cortext-assets/server/app/config.php"
+					],
+					[
+						"route_ho",
+						"cortext-assets/server/app/route_home.php"
+					],
+					[
+						"reb",
+						"cortext-auth/server/data/rebuild_db.php"
+					],
+					[
+						"rebu",
+						"cortext-assets/server/data/rebuild_db.php"
+					],
+					[
+						"publ",
+						"cortext-projects/server/publish.coffee"
+					],
+					[
+						"projec",
+						"cortext-projects/client/css/projects.css"
+					],
+					[
+						"project.css",
+						"cortext-projects/client/css/projects.css"
+					],
+					[
+						"collection",
+						"cortext-projects/collections/collections.coffee"
+					],
+					[
+						"scro",
+						"cortext-projects/client/lib/scrolltohash.js"
+					],
+					[
+						"super",
+						"cortext/manager/mcp/supervisord.conf"
+					],
+					[
+						"usercon",
+						"cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserController.php"
+					],
+					[
+						"para",
+						"cortext-projects/env/parameters.js.cortext"
+					],
+					[
+						"app.co",
+						"cortext-projects/client/app.coffee"
+					],
+					[
+						"config",
+						"cortext-assets/server/app/config.php"
+					],
+					[
+						"main_1",
+						"cortext/manager/web/css/main_1.css"
+					],
+					[
+						"regi",
+						"silex-simpleuser/src/SimpleUser/views/register.twig"
+					],
+					[
+						"vagran",
+						"cortext-box/Vagrantfile"
+					],
+					[
+						"job/ac",
+						"cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"sink",
+						"cortext/manager/mcp/sink.php"
+					],
+					[
+						"mcp",
+						"cortext/manager/mcp/mcp.php"
+					],
+					[
+						"worker.",
+						"cortext/manager/mcp/worker.php"
+					],
+					[
+						"color.js",
+						"cortext-projects/client/lib/color.js"
+					],
+					[
+						"main.css",
+						"cortext-projects/client/css/main.css"
+					],
+					[
+						"help",
+						"cortext-projects/client/templates/helpers.coffee"
+					],
+					[
+						"proj",
+						"cortext-projects/client/css/projects.css"
+					],
+					[
+						"work",
+						"cortext/manager/mcp/worker.php"
+					],
+					[
+						"job/action",
+						"cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"projectsmain.css",
+						"cortext-projects/client/css/main.css"
+					],
+					[
+						"queu",
+						"cortext-projects/client/views/queued_scripts.coffee"
+					],
+					[
+						"scrip",
+						"cortext/manager/web/css/script.css"
+					],
+					[
+						"parameters",
+						"cortext-projects/env/parameters.js"
+					],
+					[
+						"helper",
+						"cortext-projects/client/templates/helpers.coffee"
+					],
+					[
+						"docker",
+						"cortext-projects/Dockerfile"
+					],
+					[
+						"proje",
+						"cortext/front/views/project.rhtml"
+					],
+					[
+						"path.c",
+						"cortext-projects/client/views/widgets/path.coffee"
+					],
+					[
+						"module/corpus",
+						"cortext-dashboard/dashboard/modules/corpus.js"
+					],
+					[
+						"app.js",
+						"cortext-projects/private/api/app.js"
+					],
+					[
+						"publi",
+						"cortext-projects/server/publish.coffee"
+					],
+					[
+						"collec",
+						"cortext-projects/collections/collections.coffee"
+					],
+					[
+						"scripts.h",
+						"cortext-dashboard/dashboard/client/templates/scripts.html"
+					],
+					[
+						"user_in",
+						"cortext-projects/client/views/widgets/user_infos.coffee"
+					],
+					[
+						"route_u",
+						"cortext-assets/server/app/route_upload.php"
+					],
+					[
+						"job-m",
+						"cortext/manager/web/js/job-main.js"
+					],
+					[
+						"secu",
+						"cortext/manager/apps/frontend/modules/dashboard/config/security.yml"
+					],
+					[
+						"layout.php",
+						"cortext/manager/apps/frontend/templates/layout.php"
+					],
+					[
+						"route_do",
+						"cortext-assets/server/app/route_doclist.php"
+					],
+					[
+						"tools",
+						"cortext-assets/server/app/tools.php"
+					],
+					[
+						"route_",
+						"cortext-assets/server/app/route_doclist.php"
+					],
+					[
+						"main.h",
+						"cortext-dashboard/dashboard/client/main.html"
+					],
+					[
+						"config.p",
+						"cortext-assets/server/app/config.php"
+					],
+					[
+						"vag",
+						"Vagrantfile"
+					],
+					[
+						"php/ini",
+						"puppet/modules/php/files/php.ini"
+					],
+					[
+						"config.php",
+						"src/cortext/cortext-assets/server/app/config.php"
+					],
+					[
+						"ngin",
+						"puppet/modules/nginx/manifests/init.pp"
+					],
+					[
+						".hide",
+						".meteor/local/build/server/node_modules/npm/html/index.html"
+					],
+					[
+						"main",
+						"client/lib/scripts/views/main.js"
 					],
 					[
 						"inde",
-						"src/cortext/cortext-assets/server/web/index.php"
+						"client/index.html"
+					],
+					[
+						"lau",
+						"src/cortext/cortext/manager/mcp/launch_workers.sh"
+					],
+					[
+						"dashbo",
+						"puppet/modules/cortext/files/dashboard-config.js.dist"
+					],
+					[
+						"init",
+						"puppet/modules/cortext/manifests/init.pp"
+					],
+					[
+						"dash",
+						"puppet/modules/cortext/files/dashboard.config.json.dist"
+					],
+					[
+						"vagr",
+						"vagrant-package.sh"
+					],
+					[
+						"/job/",
+						"src/cortext/cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"vhos",
+						"puppet/modules/nginx/files/vhost.cortext.dist"
+					],
+					[
+						"php.ini",
+						"puppet/modules/php/files/php.ini"
+					],
+					[
+						"fronten",
+						"src/cortext/cortext/manager/web/frontend_dev.php"
+					],
+					[
+						"def",
+						"puppet/manifests/default.pp"
 					],
 					[
 						"php/",
@@ -888,10 +1726,6 @@
 					[
 						"boot",
 						"src/cortext/cortext-assets/server/app/bootstrap.php"
-					],
-					[
-						"ngin",
-						"puppet/modules/nginx/manifests/init.pp"
 					],
 					[
 						"va",
@@ -938,19 +1772,3222 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 296.0,
+			"side_bar_width": 363.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"upd",
+						"updateFilesHash"
+					],
+					[
+						"update",
+						"updateFilesInDir"
+					],
+					[
+						"li",
+						"lib_linux"
+					],
+					[
+						"term",
+						"terms_extractor"
+					],
+					[
+						"terms",
+						"terms_extraction"
+					],
+					[
+						"py",
+						"python"
+					],
+					[
+						"n",
+						"nbFileToWrite"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"crea",
+						"createYmlFromJob"
+					],
+					[
+						"func",
+						"function 	Language Construct"
+					],
+					[
+						"para",
+						"parameters"
+					],
+					[
+						"set",
+						"setScript"
+					],
+					[
+						"job",
+						"jobStarted"
+					],
+					[
+						"ch",
+						"chmodFileOk"
+					],
+					[
+						"com",
+						"compatibleFiles"
+					],
+					[
+						"cor",
+						"corpusDescriptor"
+					],
+					[
+						"corp",
+						"corpus_id"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"child",
+						"childName"
+					],
+					[
+						"parent",
+						"parentTriggerValue"
+					],
+					[
+						"chil",
+						"childrenToHide"
+					],
+					[
+						"chi",
+						"childrenToShow"
+					],
+					[
+						"paren",
+						"parentName"
+					],
+					[
+						"par",
+						"parent"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"condi",
+						"conditionName"
+					],
+					[
+						"condition",
+						"conditions"
+					],
+					[
+						"r",
+						"raw	raw"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"sect",
+						"sectName"
+					],
+					[
+						"proj",
+						"project_id"
+					],
+					[
+						"wD",
+						"wDefault"
+					],
+					[
+						"strlo",
+						"strtolower"
+					],
+					[
+						"__c",
+						"__construct()	Magic Method"
+					],
+					[
+						"fun",
+						"function 	Language Construct"
+					],
+					[
+						"pu",
+						"public 	Language Construct"
+					],
+					[
+						"desc",
+						"Descriptor"
+					],
+					[
+						"Script",
+						"ScriptDescriptor"
+					],
+					[
+						"label",
+						"labelize"
+					],
+					[
+						"la",
+						"labelize"
+					],
+					[
+						"id",
+						"idcorpus"
+					],
+					[
+						"json",
+						"jsonCorpus"
+					],
+					[
+						"pri",
+						"private"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"Job",
+						"JobForm"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"param",
+						"parameters"
+					],
+					[
+						"grav",
+						"grav_url"
+					],
+					[
+						"filter",
+						"filters"
+					],
+					[
+						"sf",
+						"sfRequest"
+					],
+					[
+						"time",
+						"timeCharts"
+					],
+					[
+						"dia",
+						"disabled"
+					],
+					[
+						"pro",
+						"programmes"
+					],
+					[
+						"h",
+						"heads"
+					],
+					[
+						"fie",
+						"fieldName"
+					],
+					[
+						"res",
+						"researcher"
+					],
+					[
+						"projec",
+						"project"
+					],
+					[
+						"home",
+						"home_url"
+					],
+					[
+						"hom",
+						"home_url"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"sub",
+						"substr"
+					],
+					[
+						"db",
+						"dbFile"
+					],
+					[
+						"DB",
+						"DB_DRIVER"
+					],
+					[
+						"DB_",
+						"DB_DBNAME"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"u",
+						"user"
+					],
+					[
+						"dash",
+						"dashboardConfig"
+					],
+					[
+						"Coll",
+						"Collections"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"User",
+						"user_id"
+					],
+					[
+						"login",
+						"loggingIn"
+					],
+					[
+						"loggin",
+						"loggingIn"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"pr",
+						"project"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"ove",
+						"overflow-x"
+					],
+					[
+						"ren",
+						"render_composition"
+					],
+					[
+						"seach",
+						"searchString"
+					],
+					[
+						"se",
+						"searchReg"
+					],
+					[
+						"sea",
+						"searchReg"
+					],
+					[
+						"sa",
+						"searchString"
+					],
+					[
+						"dar",
+						"dashboardConfig"
+					],
+					[
+						"mU",
+						"mUser"
+					],
+					[
+						"acces",
+						"accessToken"
+					],
+					[
+						"mUser",
+						"mUser_id"
+					],
+					[
+						"call",
+						"callback_url"
+					],
+					[
+						"resul",
+						"result_id"
+					],
+					[
+						"result",
+						"result_id"
+					],
+					[
+						"ha",
+						"hash"
+					],
+					[
+						"comment",
+						"comments"
+					],
+					[
+						"perm",
+						"permalink"
+					],
+					[
+						"dir",
+						"dirDeleted"
+					],
+					[
+						"js",
+						"jsParams"
+					],
+					[
+						"ass",
+						"assetsPath"
+					],
+					[
+						"tri",
+						"trigger_error"
+					],
+					[
+						"new",
+						"new_graph"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"pare",
+						"parseInt"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"url",
+						"urlEdit"
+					],
+					[
+						"upload",
+						"uploadedCorpus"
+					],
+					[
+						"calback",
+						"callback_url"
+					],
+					[
+						"choo",
+						"chooseScript"
+					],
+					[
+						"choose",
+						"chooseCorpus"
+					],
+					[
+						"_id",
+						"_idCorpus"
+					],
+					[
+						"t",
+						"text-align"
+					],
+					[
+						"fade",
+						"fadeIn"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"impo",
+						"import-mongogpg"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"search",
+						"searchString"
+					],
+					[
+						"Reg",
+						"regex"
+					],
+					[
+						"mon",
+						"mongoDbName"
+					],
+					[
+						"mongo",
+						"mongoHost"
+					],
+					[
+						"mongoDb",
+						"mongoDbName"
+					],
+					[
+						"st",
+						"stdout"
+					],
+					[
+						"sat",
+						"status"
+					],
+					[
+						"data",
+						"datasCallback"
+					],
+					[
+						"met",
+						"Method"
+					],
+					[
+						"log",
+						"logRefferrer"
+					],
+					[
+						"proje",
+						"project"
+					],
+					[
+						"export",
+						"exportRIS"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/app/bootstrap.php",
+					"settings":
+					{
+						"buffer_size": 4720,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/data/parameters.json",
+					"settings":
+					{
+						"buffer_size": 675,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/EditUserVoter.php",
+					"settings":
+					{
+						"buffer_size": 3164,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserManager.php",
+					"settings":
+					{
+						"buffer_size": 17637,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserServiceProvider.php",
+					"settings":
+					{
+						"buffer_size": 4921,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/views/view.twig",
+					"settings":
+					{
+						"buffer_size": 1678,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/templates/element/analysis.html",
+					"settings":
+					{
+						"buffer_size": 2352,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 2525 files for \"file manager\"\n\n/home/philippe/cortext/cortext-box/cortext-projects/client/templates/dashboard/dashboard.html:\n   14      </div><!-- /dashboard-projects -->\n   15  \n   16:     <div id=\"link-dashboard\" data-step=\"6\" data-intro=\"File manager - view and manage all your files. Upload / delete / download corpus, results,...\" >\n   17:       <h4><a href=\"#\" id=\"fileManager\"> file manager</a></h4>\n   18      </div>\n   19  \n\n2 matches in 1 file\n",
+					"settings":
+					{
+						"buffer_size": 465,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/templates/dashboard/dashboard.html",
+					"settings":
+					{
+						"buffer_size": 1978,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/views/dashboard.coffee",
+					"settings":
+					{
+						"buffer_size": 2422,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/templates/widgets/help.html",
+					"settings":
+					{
+						"buffer_size": 1069,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nLaTeXTools:\n----------\n\n  LaTeXTools Plugin version 2015-04-12 changelog:\n  \n  \n  New features:\n  \n  - Find bib files in TEXMF trees using kpsewhich (ig0774). This is the\n    \"headline feature\" of this update. Please test it on different platforms and\n    let me know if there are issues.\n  - On OSX, find Skim.app if installed in a non-standard location (Sean Zhu)\n  - Recursively delete temp files (Lucas Nanni)\n  \n  Bugs fixed:\n  \n  - Fixed incorrect handling when the \"sumatra\" option is not specified\n  - Better center/table snippets (Maximilian Berger)\n  - Crash in cite completion when an @ line cannot be processed\n  - Added @preamble to ignored directives in bib file parsing\n  - Fix $ auto-pairing and move-over with Vintage (Sergey Slipchenko)\n  \n    \n\n  LaTeXTools Plugin version 2015-04-08 changelog:\n  \n  Sorry for the long hiatus. This release incorporates some user-contributed fixes.\n  \n  New features (William le Doux):\n  \n  - TeX engine selection now works with MikTeX, too\n  - env builder setting\n  - Specify Sumatra executable path\n  \n  Bugs fixed:\n  \n  N/A\n  \n    \n  ",
+					"settings":
+					{
+						"buffer_size": 1140,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"pu",
+						"Git: Push"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add Current File"
+					],
+					[
+						"pul",
+						"Git: Pull Current Branch"
+					],
+					[
+						"pull",
+						"Git: Pull"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"pus",
+						"Git: Push"
+					],
+					[
+						"co",
+						"Git: Commit"
+					],
+					[
+						"puh",
+						"Git: Push"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"a",
+						"Git: Add Current File"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"ad",
+						"Git: Add..."
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"cu",
+						"Git: Add Current File"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"diff",
+						"Git: Diff Current File"
+					],
+					[
+						"sta",
+						"Git: Status"
+					],
+					[
+						"log",
+						"Git: Log Current File"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"statu",
+						"Git: Status"
+					],
+					[
+						"dif",
+						"Git: Diff Staged"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"mark",
+						"Bookmarks: Toggle"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"curr",
+						"Git: Add Current File"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"pup",
+						"Set Syntax: Puppet"
+					],
+					[
+						"han",
+						"Set Syntax: Handlebars"
+					],
+					[
+						"vb",
+						"Set Syntax: VBScript"
+					],
+					[
+						"hist",
+						"Git: Commit history"
+					],
+					[
+						"hi",
+						"Git: Commit history"
+					],
+					[
+						"do",
+						"Set Syntax: Dockerfile"
+					],
+					[
+						"doc",
+						"Set Syntax: Dockerfile"
+					],
+					[
+						"dock",
+						"Set Syntax: Dockerfile"
+					],
+					[
+						"hand",
+						"Set Syntax: Handlebars"
+					],
+					[
+						"histo",
+						"Git: Commit history"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"htm",
+						"Set Syntax: HTML"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"diff cu",
+						"Git: Diff Current File"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"fo",
+						"Format: Php"
+					],
+					[
+						"php",
+						"Format: Php"
+					],
+					[
+						"va",
+						"Vagrant: Start"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML (Twig)"
+					],
+					[
+						"keys",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pupp",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 638.0
+			},
+			"console":
+			{
+				"height": 267.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/philippe/Dropbox/_01_pro/esiee/cours-esiee-web/E4_IT_Architecture et développement Web_PHP/2014-2015/Cours/sources/si4301b-cours5-design-pattern-breucker.tex",
+				"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext/ScriptParameters.php",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/lib/handsontable/handsontable.full.min.js",
+				"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext/Cfile.php",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/templates/viewers/viewCsv.html",
+				"/home/philippe/cortext/cortext-box/cortext-projects/env/parameters.js",
+				"/home/philippe/cortext/cortext/manager/apps/frontend/modules/job/actions/actions.class.php",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/views/viewcsv.coffee",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/app.coffee",
+				"/home/philippe/cortext/cortext-box/cortext-manager/views/scriptParams.twig",
+				"/home/philippe/cortext/cortext-box/cortext-methods/dummy/dummy.php",
+				"/home/philippe/cortext/cortext-box/cortext-methods/Dockerfile",
+				"/home/philippe/cortext/cortext-box/cortext-methods/install-nltk-punkt.py",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserController.php",
+				"/home/philippe/cortext/cortext-box/cortext-methods/parser_science/data_parser.yaml",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserServiceProvider.php",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserManager.php",
+				"/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/User.php",
+				"/home/philippe/dev/cortext/cortext-box/preconfig.txt",
+				"/home/philippe/cortext/cortext-box/cortext-methods/parser_science/parser_science_se.py",
+				"/home/philippe/dev/cortext/cortext-methods/Dockerfile",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/templates/element/analysis.html",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/templates/viewers/viewPdf.html",
+				"/home/philippe/cortext/cortext-box/cortext-projects/client/views/view_csv.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/widgets/path.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/user.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/project.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/element.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/helpers.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/element/element.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/element/comment.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/element/message.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/app.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/env/main.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/env/parameters.js",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/data/parameters.json",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/Job.php",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/ScriptDescriptor.php",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/Cfile.php",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/widgets/user_infos.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/widgets/participation.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/project_list.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/queued_scripts.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates/project/project.html",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/env/parameters.js.cortext",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/README.md",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/server/main.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/index.js",
+				"/home/philippe/cortext/cortext-dev/cortext-assets/server/app/config.php",
+				"/home/philippe/cortext/cortext-dev/cortext-assets/server/app/route_upload.php",
+				"/home/philippe/cortext/cortext-dev/cortext-assets/server/app/route_callback.php",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/app/mainControllers.php",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/login.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/server/oauth-cortext/oauth-cortext-server.js",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/client/views/dashboard.coffee",
+				"/home/philippe/cortext/cortext-dev/cortext-methods/parser_science/data_parser.yaml",
+				"/home/philippe/cortext/cortext-dev/cortext-methods/analysis/analysis.yaml",
+				"/home/philippe/cortext/cortext-dev/cortext-manager/src/Cortext/ScriptParameters.php",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/.meteor/local/build/programs/client/app/client/views/project.coffee.js",
+				"/home/philippe/cortext/cortext-dev/cortext-projects/.meteor/local/build/programs/client/app/client/views/project.coffee.js.map",
+				"/home/philippe/smbhosts.txt",
+				"/media/philippe/philkey/plop",
+				"/home/philippe/cortext/cortext-box/cortext-manager/data/parameters.json",
+				"/home/philippe/dev/cortext/cortext-box/cortext-assets/server/documents/1366/13667e6a51a0737d4f45e78c165cb496/corpus-speclean3ex.yaml",
+				"/home/philippe/cortext/cortext-box/cortext-assets/server/app/route_upload.php",
+				"/home/philippe/cortext/cortext-box/cortext-assets/server/app/tools.php",
+				"/home/philippe/cortext/cortext-box/Vagrantfile",
+				"/home/philippe/cortext/cortext-box/cortext-manager/README.md",
+				"/home/philippe/cortext/cortext-box/cortext-manager/composer.json",
+				"/home/philippe/cortext/cortext-box/cortext-manager/data/parameters.json.dist",
+				"/home/philippe/Dropbox/_00_perso/chiffrofetes/Chiffofête-mozilla-2014.md",
+				"/home/philippe/Dropbox/_00_perso/chiffrofetes/2014-11-06-Chiffrofete-ubuntu party .md",
+				"/home/philippe/backup/philkey/utils/office2013/licences.txt",
+				"/home/philippe/dev/cortext/cortext-box/1_create_MV.sh",
+				"/home/philippe/dev/cortext/cortext-auth/server/app/bootstrap.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/src/Ctprofile/ControllerProvider.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/User.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/src/Ctauth/ControllerProvider.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/sql/mysql_v2.sql",
+				"/home/philippe/dev/cortext/cortext-auth/server/data/parameters.json",
+				"/home/philippe/dev/cortext/cortext-auth/server/tests/Ctauth/Tests/AuthTest.php",
+				"/home/philippe/Dropbox/_01_pro/INRA/2013_09_cours-ESIEE/esiee-atelier.md",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/Script.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/ScriptDescriptor.php",
+				"/home/philippe/Téléchargements/ctmanager (1).sql",
+				"/home/philippe/Téléchargements/ctmanager (2).sql",
+				"/home/philippe/dev/cortext/cortext-manager/README.md",
+				"/home/philippe/dev/cortext/cortext-assets/server/app/route_auth.php",
+				"/home/philippe/dev/cortext/cortext-assets/server/app/config.php",
+				"/home/philippe/dev/cortext/cortext-assets/server/app/route_docs.php",
+				"/home/philippe/dev/cortext/cortext-auth/server/data/parameters.json.dist",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/User.php",
+				"/home/philippe/dev/cortext/cortext-manager/app/bootstrap.php",
+				"/home/philippe/dev/cortext/cortext/manager/apps/frontend/modules/project/actions/actions.class.php",
+				"/home/philippe/dev/cortext/cortext-manager/views/index.twig",
+				"/home/philippe/dev/cortext/cortext-manager/app/mainControllers.php",
+				"/home/philippe/dev/cortext/cortext-manager/web/js/job-main.js",
+				"/home/philippe/dev/cortext/cortext-auth/install.sh",
+				"/home/philippe/dev/cortext/cortext-manager/app/config.php",
+				"/home/philippe/dev/cortext/cortext-manager/data/parameters.json.dist",
+				"/home/philippe/dev/cortext/cortext-projects/client/views/project.coffee",
+				"/home/philippe/dev/cortext/cortext/manager/apps/frontend/modules/job/actions/actions.class.php",
+				"/home/philippe/Dropbox/_01_pro/INRA/2014-contrats-ANR/projbase-projects-2014-10-28-18-32-50.csv",
+				"/home/philippe/Dropbox/_01_pro/cortext_perso/2014-risis/2014-10-27-mission-orsal.md",
+				"/home/philippe/dev/cortext/cortext-manager/views/_jobparams.php",
+				"/home/philippe/dev/cortext/cortext.sublime-workspace",
+				"/home/philippe/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/philippe/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/philippe/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/philippe/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/Tests/test.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cortext/ScriptTest.php",
+				"/home/philippe/Téléchargements/listeprojetsfinances.csv",
+				"/home/philippe/dev/cortext/cortext-manager/composer.json",
+				"/home/philippe/dev/cortext/cortext-manager/src/JobForm.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/front-controllers.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Job.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/User.php",
+				"/home/philippe/dev/cortext/cortext-manager/src/Cfile.php",
+				"/home/philippe/dev/cortext/cortext-manager/data/parameters.json",
+				"/home/philippe/dev/cortext/cortext-manager/src/Script.php",
+				"/home/philippe/dev/cortext/cortext-manager/views/layout.twig",
+				"/home/philippe/c",
+				"/home/philippe/.cache/.fr-k7Wi1x/dokuwiki-template-zenlike-6.0.1/README",
+				"/home/philippe/Dropbox/_01_pro/cortext_perso/2014-risis/2014-02-03-risis.md",
+				"/home/philippe/Dropbox/_01_pro/INRA/2014-contrats-ANR/ListeProjetsFinances.csv",
+				"/home/philippe/dev/cortext/projbase/apps/frontend/config/routing.yml",
+				"/home/philippe/dev/cortext/projbase/apps/frontend/modules/projviz/actions/actions.class.php"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/philippe/cortext/cortext-box/cortext-projects",
+					"/home/philippe/cortext/cortext-box/cortext-auth/server",
+					"/home/philippe/cortext/cortext-box/cortext-manager",
+					"/home/philippe/cortext/cortext-box/cortext-auth",
+					"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext/mcp",
+					"/home/philippe/cortext/cortext-box/cortext-assets/server/app",
+					"/home/philippe/cortext/cortext-box/cortext-manager/src/Cortext",
+					"/home/philippe/cortext/cortext-dev/cortext-projects",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client/views",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/server",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/models",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client/templates",
+					"/home/philippe/cortext/cortext-dev/cortext-projects",
+					"/home/philippe/cortext/cortext-dev/cortext-projects/client",
+					"/home/philippe/cortext/cortext-box/cortext-manager",
+					"/home/philippe/dev/cortext/cortext-assets/server",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client/views",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/.meteor/local/build/programs/server/packages",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects/server/oauth-cortext",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-graphs",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client/css",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-assets",
+					"/home/philippe/dev/cortext/cortext-assets/server/app",
+					"/home/philippe/dev/cortext/cortext-dev/cortext/manager",
+					"/home/philippe/dev/cortext/cortext-dev/cortext/manager/apps/frontend",
+					"/home/philippe/dev/cortext/cortext-auth/server/views",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser",
+					"/home/philippe/dev/cortext/cortext-auth/server/app",
+					"/home/philippe/dev/cortext/cortext-auth/server/src",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser",
+					"/home/philippe/dev/cortext/cortext-auth",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/views",
+					"/home/philippe/dev/cortext/cortext-box/puppet",
+					"/home/philippe/dev/cortext/cortext/manager/apps/frontend",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-projects/client/views",
+					"/home/philippe/dev/cortext/cortext/manager/mcp",
+					"/home/philippe/dev/cortext/cortext/manager",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/client/templates",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext/manager/apps",
+					"/home/philippe/dev/cortext/cortext",
+					"/home/philippe/dev/cortext/cortext-graphs",
+					"/home/philippe/dev/cortext/cortext-assets",
+					"/home/philippe/dev/cortext/cortext-assets/server/app",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects/models",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/server",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-projects/client",
+					"/home/philippe/dev/cortext/cortext/manager/mcp",
+					"/home/philippe/dev/cortext/taniki/cortext-projects/client",
+					"/home/philippe/dev/cortext/taniki/cortext-projects",
+					"/home/philippe/dev/cortext/cortext-dashboard/dashboard/.meteor/local/build",
+					"/home/philippe/dev/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2",
+					"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-graphs",
+					"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets/server/app",
+					"/home/philippe/dev/cortext/cortext-box/src/cortext/cortext-assets",
+					"/home/philippe/dev/cortext/cortext-graphs"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"file manager",
+					"app.manager",
+					"register",
+					"user",
+					"2014",
+					"récuren",
+					"before",
+					" e",
+					"isRunning",
+					"run",
+					"umask",
+					"print_r",
+					"die",
+					"var_dump",
+					"getUserDocs",
+					"Cfile::getAllFilesFromDir",
+					"getAllFilesFromDir",
+					"monolog",
+					"glob_recur",
+					"debug",
+					"corpus_file",
+					"fullname",
+					"['name",
+					"corpus_name",
+					"corpusDescriptor",
+					"corpus_name",
+					"RUN apt-get install -y --force-yes(.*)\\n",
+					"RUN",
+					"apt-get -y",
+					" ",
+					"RUN apt-get install -y --force-yes python python-setuptools python-lxml python-apptools python-apt python-apt-common python-cairo python-chaco python-configobj python-dateutil python-dev python-enable python-enthoughtbase python-gobject python-jaxml python-lxml python-matplotlib python-numpy python-pip python-pkg-resources python-pyparsing python-pyrex python-reportbug python-scipy python-setuptools python-sqlite python-support python-tk python-traits python-tz python-vtk python-wxversion python-yaml git curl unzip wget nano",
+					" ",
+					"RUN",
+					"expanded",
+					"csv",
+					"demo",
+					"Handlebars.registerHelper",
+					"Template[",
+					"isNotAComment",
+					"Template.",
+					"$el",
+					"html Template.",
+					"Template(",
+					".html(",
+					".html ",
+					"Template",
+					"comment-item",
+					"required",
+					"required: yes",
+					"pubmed",
+					"/job/new",
+					"grant",
+					"\\$this->([^,]*)",
+					"`([^`]*)`",
+					"`[^`]*`",
+					"insert",
+					"corpu_id",
+					"`",
+					"public",
+					"increment",
+					"$app['parameters']['Storage']",
+					"oauth.dev",
+					"sms",
+					"authorized",
+					"getCom",
+					"corpus",
+					"descriptor",
+					"executeGenerateFieldsFromYml",
+					"param",
+					"Error in form",
+					"error",
+					"wOptions",
+					"help",
+					"title",
+					"widg",
+					"tab-pane",
+					"tool",
+					"parseInt",
+					"expanded: y",
+					"['widget']['source']",
+					"'list'",
+					"$choices = ",
+					"wData",
+					"default",
+					"parent",
+					"CONS_KEY",
+					"user",
+					"each",
+					"script",
+					"script:",
+					"script ",
+					"script",
+					"form",
+					"context",
+					":[\\s]?\"([^\"]*)\"",
+					"subm",
+					"[\\s]+",
+					" [^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ]\\?",
+					" [^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ ]\\?",
+					"\\?\\?[^\\?]*\\?\\?",
+					" [^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ ]\\?",
+					" d?",
+					" l?",
+					"[^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ]\\?[^a-zA-Z0-9áéíóúÁÉÍÓÚâêîôÂÊÎÔãõÃÕçÇ]",
+					"l'",
+					"([\\.\\?\\;\\s]+)L ",
+					"([\\.\\?\\;\\s]+)l ",
+					"½uvre",
+					"***",
+					"»",
+					"«",
+					"([\\wéèàùç])\\?([\\wéèàùç])",
+					"([\\w])\\?([\\w])",
+					"ffluents",
+					"[\\w](\\?)[\\w]",
+					"[\\w]\\?[\\w]",
+					"[^\\w]\\?[^\\w]",
+					"[^\\S]\\?[^\\S]",
+					"[^s]\\?[^s]",
+					"[^\\s]\\?[^\\s]",
+					"L\\?",
+					"\\?",
+					"[^[[:space]]]\\?",
+					"[^\\s]\\?[^\\s]",
+					".*[^\\s]\\?+[^\\s]",
+					".*\\?+",
+					"’",
+					"access"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"récurren",
+					"$1",
+					"$1 ",
+					"",
+					"apt-get install -y",
+					"\\nRUN apt-get -y --force-yes ",
+					"\\nRUN apt-get -y --force-yes",
+					"\\nRUN ",
+					"  ",
+					"UI.registerHelper",
+					"commentItem",
+					"required: no",
+					"\"$1\" => $this->$1",
+					"$1 => $this->$1",
+					"$1 = ?",
+					"\\$this->$1",
+					"?",
+					"$",
+					"private",
+					"auth.cortext.dev:8080",
+					"deciParseInt",
+					": \"\"",
+					"",
+					"\\n",
+					"d'",
+					"l'",
+					"$1L'",
+					"$1l'",
+					"oeuvre",
+					"'",
+					"$1 $2",
+					"$1 ? $2",
+					" ? ",
+					"'",
+					"$message, $app = null",
+					"$app['monolog']",
+					"\\Exception",
+					"getCorpusMetas",
+					"userId",
+					"isPublic",
+					"set",
+					"'",
+					"[",
+					"Programme",
+					"programme",
+					"$organisation",
+					"$nod",
+					"$nod['label]",
+					"outputResearcherProject",
+					"\"researcher\", \"project\"",
+					"",
+					":",
+					"\"",
+					" ",
+					",",
+					"",
+					" ",
+					"\\s",
+					"\\n",
+					"log in",
+					"Log in",
+					"python2.7",
+					"fr",
+					"precise",
+					"  ",
+					"quantal",
+					"auth.cortext.net",
+					"managerv2.cortext.net",
+					"  -",
+					",",
+					"Require all granted",
+					"Require All granted",
+					"getAllArticles()",
+					"",
+					"  ",
+					" ",
+					"#elements",
+					"getItem",
+					"getAll",
+					"storage.",
+					"",
+					"document",
+					"  ",
+					">\\n<div",
+					"  ",
+					"#console.log",
+					"  ",
+					"@user_id",
+					"\\\"",
+					"    ",
+					"//console.log",
+					"/:accessToken",
+					"$request->getParameter(\"accessToken\");",
+					"/:accessToken/",
+					"$this->accessToken",
+					"getUserInfosFromOauth",
+					",",
+					"noteedit",
+					"CorTextGraphs.noteedit",
+					"noteinfo",
+					"CorTextGraphs.nodenotelist",
+					"dashboardConfig.url[",
+					"",
+					"\"",
+					"'",
+					"ô",
+					"é",
+					"É",
+					"\"",
+					"",
+					"€",
+					"",
+					"<tr><td>",
+					"</td></tr>",
+					"<td>$1</td>",
+					"<td>$1</td>\\n",
+					"<tr>$1</tr>\\n",
+					"<tr>$1</tr>",
+					"\"$1\",",
+					"",
+					"$1\\n",
+					"",
+					"$1\\n",
+					"\"$1\",",
+					",",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/philippe/cortext/cortext-box"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 11,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/app/bootstrap.php",
+							"settings":
+							{
+								"buffer_size": 4720,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										449,
+										449
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1134.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/data/parameters.json",
+							"settings":
+							{
+								"buffer_size": 675,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/EditUserVoter.php",
+							"settings":
+							{
+								"buffer_size": 3164,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 855.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserManager.php",
+							"settings":
+							{
+								"buffer_size": 17637,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 540.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserServiceProvider.php",
+							"settings":
+							{
+								"buffer_size": 4921,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3037,
+										3037
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1296.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/philippe/cortext/cortext-box/cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/views/view.twig",
+							"settings":
+							{
+								"buffer_size": 1678,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										462,
+										462
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/templates/element/analysis.html",
+							"settings":
+							{
+								"buffer_size": 2352,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1882,
+										1882
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 162.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"settings":
+							{
+								"buffer_size": 465,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												252,
+												264
+											],
+											[
+												396,
+												408
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										376,
+										376
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"detect_indentation": false,
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"output_tag": 1,
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/templates/dashboard/dashboard.html",
+							"settings":
+							{
+								"buffer_size": 1978,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										831,
+										831
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/views/dashboard.coffee",
+							"settings":
+							{
+								"buffer_size": 2422,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1127,
+										1127
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"devel": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": "load-save",
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/philippe/cortext/cortext-box/cortext-projects/client/templates/widgets/help.html",
+							"settings":
+							{
+								"buffer_size": 1069,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										309,
+										309
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"settings":
+							{
+								"buffer_size": 1140,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1140,
+										1140
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 432.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 331.0
+			},
+			"output.git":
+			{
+				"height": 393.0
+			},
+			"output.vagrant":
+			{
+				"height": 207.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,3360,1050",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"mcpconfig",
+						"cortext-manager/src/Cortext/mcp/config/config.php"
+					],
+					[
+						"util",
+						"cortext-manager/src/Cortext/Util.php"
+					],
+					[
+						"maincon",
+						"cortext-manager/app/mainControllers.php"
+					],
+					[
+						"param",
+						"cortext-manager/data/parameters.json"
+					],
+					[
+						"script",
+						"cortext-manager/src/Cortext/Script.php"
+					],
+					[
+						"script.p",
+						"cortext-manager/src/Cortext/Script.php"
+					],
+					[
+						"",
+						"cortext-manager/src/Cortext/Script.php"
+					],
+					[
+						"managerjobaction.class",
+						"cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"tool",
+						"cortext-assets/server/app/tools.php"
+					],
+					[
+						"data",
+						"config/databases.yml"
+					],
+					[
+						"e",
+						"lib/model/Export.class.php"
+					],
+					[
+						"expo",
+						"lib/model/Export.class.php"
+					],
+					[
+						"project",
+						"cortext-projects/client/views/project.coffee"
+					],
+					[
+						"conf",
+						"cortext-assets/server/app/config.php"
+					],
+					[
+						"route_ho",
+						"cortext-assets/server/app/route_home.php"
+					],
+					[
+						"reb",
+						"cortext-auth/server/data/rebuild_db.php"
+					],
+					[
+						"rebu",
+						"cortext-assets/server/data/rebuild_db.php"
+					],
+					[
+						"publ",
+						"cortext-projects/server/publish.coffee"
+					],
+					[
+						"projec",
+						"cortext-projects/client/css/projects.css"
+					],
+					[
+						"project.css",
+						"cortext-projects/client/css/projects.css"
+					],
+					[
+						"collection",
+						"cortext-projects/collections/collections.coffee"
+					],
+					[
+						"scro",
+						"cortext-projects/client/lib/scrolltohash.js"
+					],
+					[
+						"super",
+						"cortext/manager/mcp/supervisord.conf"
+					],
+					[
+						"usercon",
+						"cortext-auth/server/vendor/cortext/silex-simpleuser/src/SimpleUser/UserController.php"
+					],
+					[
+						"para",
+						"cortext-projects/env/parameters.js.cortext"
+					],
+					[
+						"app.co",
+						"cortext-projects/client/app.coffee"
+					],
+					[
+						"config",
+						"cortext-assets/server/app/config.php"
+					],
+					[
+						"main_1",
+						"cortext/manager/web/css/main_1.css"
+					],
+					[
+						"regi",
+						"silex-simpleuser/src/SimpleUser/views/register.twig"
+					],
+					[
+						"vagran",
+						"cortext-box/Vagrantfile"
+					],
+					[
+						"job/ac",
+						"cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"sink",
+						"cortext/manager/mcp/sink.php"
+					],
+					[
+						"mcp",
+						"cortext/manager/mcp/mcp.php"
+					],
+					[
+						"worker.",
+						"cortext/manager/mcp/worker.php"
+					],
+					[
+						"color.js",
+						"cortext-projects/client/lib/color.js"
+					],
+					[
+						"main.css",
+						"cortext-projects/client/css/main.css"
+					],
+					[
+						"help",
+						"cortext-projects/client/templates/helpers.coffee"
+					],
+					[
+						"proj",
+						"cortext-projects/client/css/projects.css"
+					],
+					[
+						"work",
+						"cortext/manager/mcp/worker.php"
+					],
+					[
+						"job/action",
+						"cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"projectsmain.css",
+						"cortext-projects/client/css/main.css"
+					],
+					[
+						"queu",
+						"cortext-projects/client/views/queued_scripts.coffee"
+					],
+					[
+						"scrip",
+						"cortext/manager/web/css/script.css"
+					],
+					[
+						"parameters",
+						"cortext-projects/env/parameters.js"
+					],
+					[
+						"helper",
+						"cortext-projects/client/templates/helpers.coffee"
+					],
+					[
+						"docker",
+						"cortext-projects/Dockerfile"
+					],
+					[
+						"proje",
+						"cortext/front/views/project.rhtml"
+					],
+					[
+						"path.c",
+						"cortext-projects/client/views/widgets/path.coffee"
+					],
+					[
+						"module/corpus",
+						"cortext-dashboard/dashboard/modules/corpus.js"
+					],
+					[
+						"app.js",
+						"cortext-projects/private/api/app.js"
+					],
+					[
+						"publi",
+						"cortext-projects/server/publish.coffee"
+					],
+					[
+						"collec",
+						"cortext-projects/collections/collections.coffee"
+					],
+					[
+						"scripts.h",
+						"cortext-dashboard/dashboard/client/templates/scripts.html"
+					],
+					[
+						"user_in",
+						"cortext-projects/client/views/widgets/user_infos.coffee"
+					],
+					[
+						"route_u",
+						"cortext-assets/server/app/route_upload.php"
+					],
+					[
+						"job-m",
+						"cortext/manager/web/js/job-main.js"
+					],
+					[
+						"secu",
+						"cortext/manager/apps/frontend/modules/dashboard/config/security.yml"
+					],
+					[
+						"layout.php",
+						"cortext/manager/apps/frontend/templates/layout.php"
+					],
+					[
+						"route_do",
+						"cortext-assets/server/app/route_doclist.php"
+					],
+					[
+						"tools",
+						"cortext-assets/server/app/tools.php"
+					],
+					[
+						"route_",
+						"cortext-assets/server/app/route_doclist.php"
+					],
+					[
+						"main.h",
+						"cortext-dashboard/dashboard/client/main.html"
+					],
+					[
+						"config.p",
+						"cortext-assets/server/app/config.php"
+					],
+					[
+						"vag",
+						"Vagrantfile"
+					],
+					[
+						"php/ini",
+						"puppet/modules/php/files/php.ini"
+					],
+					[
+						"config.php",
+						"src/cortext/cortext-assets/server/app/config.php"
+					],
+					[
+						"ngin",
+						"puppet/modules/nginx/manifests/init.pp"
+					],
+					[
+						".hide",
+						".meteor/local/build/server/node_modules/npm/html/index.html"
+					],
+					[
+						"main",
+						"client/lib/scripts/views/main.js"
+					],
+					[
+						"inde",
+						"client/index.html"
+					],
+					[
+						"lau",
+						"src/cortext/cortext/manager/mcp/launch_workers.sh"
+					],
+					[
+						"dashbo",
+						"puppet/modules/cortext/files/dashboard-config.js.dist"
+					],
+					[
+						"init",
+						"puppet/modules/cortext/manifests/init.pp"
+					],
+					[
+						"dash",
+						"puppet/modules/cortext/files/dashboard.config.json.dist"
+					],
+					[
+						"vagr",
+						"vagrant-package.sh"
+					],
+					[
+						"/job/",
+						"src/cortext/cortext/manager/apps/frontend/modules/job/actions/actions.class.php"
+					],
+					[
+						"vhos",
+						"puppet/modules/nginx/files/vhost.cortext.dist"
+					],
+					[
+						"php.ini",
+						"puppet/modules/php/files/php.ini"
+					],
+					[
+						"fronten",
+						"src/cortext/cortext/manager/web/frontend_dev.php"
+					],
+					[
+						"def",
+						"puppet/manifests/default.pp"
+					],
+					[
+						"php/",
+						"puppet/modules/php/manifests/init.pp"
+					],
+					[
+						"boot",
+						"src/cortext/cortext-assets/server/app/bootstrap.php"
+					],
+					[
+						"va",
+						"vagrant.conf"
+					],
+					[
+						".php",
+						"src/cortext/cortext-auth/server/src/app.php"
+					],
+					[
+						"v",
+						"Vagrantfile"
+					],
+					[
+						"nginx/man",
+						"puppet/modules/nginx/manifests/init.pp"
+					],
+					[
+						"main.",
+						"src/cortext/cortext-assets/templates/css/main.css"
+					],
+					[
+						".js",
+						"src/cortext/cortext-assets/templates/js/main.js"
+					],
+					[
+						"index.h",
+						"src/cortext/cortext-assets/server/views/index.html.twig"
+					],
+					[
+						".css",
+						"src/cortext/cortext-assets/templates/css/files.css"
+					],
+					[
+						"oauth2php",
+						"src/cortext/cortext-auth/server/vendor/bshaffer/oauth2-server-php/src/OAuth2/Response.php"
+					],
+					[
+						"compe",
+						"puppet/modules/php/manifests/composer.pp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 363.0,
 			"status_bar_visible": true,
-			"window_id": 16,
+			"window_id": 124,
 			"workspace_name": ""
 		}
 	],
@@ -958,6 +4995,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/home/philippe/dev/cortext/cortext.sublime-project"
 		]
 	}
 }
